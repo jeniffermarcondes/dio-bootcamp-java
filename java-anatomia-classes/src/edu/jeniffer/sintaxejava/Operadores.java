@@ -62,7 +62,7 @@ public class Operadores {
         /*
          * int a, b;
          * a = 6;
-         * b = 6;
+         * b = 7;
          */
 
         // EXEMPLO DE CONDICIONAL UTILIZANDO UMA ESTRUTURA IF/ELSE
